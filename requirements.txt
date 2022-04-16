@@ -1,3 +1,5 @@
+setuptools
+ez_setup
 pytest
 flake8
 pandas
