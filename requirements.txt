@@ -1,4 +1,5 @@
 pytest
+ez_setup
 flake8
 pandas
 flask
